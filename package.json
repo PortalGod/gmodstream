@@ -1,0 +1,11 @@
+{
+  "name": "gmodstream",
+  "version": "0.1.0",
+  "description": "proof of concept",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {},
+  "engines": {
+    "node": "0.10.32"
+  }
+}
