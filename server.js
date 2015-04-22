@@ -1,3 +1,5 @@
+//a lot of credit for this goes to psanford: https://github.com/psanford/node-mjpeg-test-server
+
 var http = require('http'),
 	qs = require('querystring');
 
